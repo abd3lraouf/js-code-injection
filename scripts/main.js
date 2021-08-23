@@ -3,5 +3,5 @@
 let myButton = document.querySelector('button');
 
 myButton.onclick = function() {
-  window.Android.share("https://google.com");
+  Android.share("https://google.com");
 }
